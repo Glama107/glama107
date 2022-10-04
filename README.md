@@ -8,3 +8,6 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glama107&layout=compact&langs_count=12&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
 
+# My favorites repo
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Glama107&repo=blog&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
