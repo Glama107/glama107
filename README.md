@@ -10,4 +10,4 @@
 
 # My favorites repo
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Glama107&repo=blog&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Glama107&repo=blog&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
