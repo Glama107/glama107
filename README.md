@@ -1,6 +1,4 @@
  - 💻 Fullstack PHP web developper on Mac 🍎
- - Student at Ynov Bordeaux
- - More details available <a href="http://www.guillaumemareschal.fr" target="_blank">here</a>
 
 # Stats
 
